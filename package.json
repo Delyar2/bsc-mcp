@@ -22,7 +22,6 @@
     "@polymarket/real-time-data-client": "^1.4.0",
     "chalk": "^5.6.2",
     "dotenv": "^17.2.3",
-    "ethers": "^6.16.0",
-    "excluder-mcp": "^1.0.6"
+    "ethers": "^6.16.0"
   }
 }
